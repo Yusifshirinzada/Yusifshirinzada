@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/yusifshirinzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusifshirinzade" height="30" width="40" /></a>
 <a href="https://fb.com/yusif.shirinzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yusif.shirinzade" height="30" width="40" /></a>
 <a href="https://instagram.com/yusifshirinzadee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusifshirinzadee" height="30" width="40" /></a>
-<a href="https://medium.com/@yusifshirinzada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yusifshirinzada" height="30" width="40" /></a>
+<a href="https://usifshirinzada.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yusifshirinzada" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
